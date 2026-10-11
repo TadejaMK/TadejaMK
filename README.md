@@ -95,6 +95,16 @@
 + [ OK ] fetching live data from github...
 ```
 
+```diff
++ [ OK ] stats loaded
++ [ OK ] 4 modules online :: stats · languages · streak · graph
+
++ user@archive:~$ logout
++ [ OK ] connection closed.
++ ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+```
+
+
 <div align="center">
 
 <table>
@@ -110,15 +120,4 @@
 
 <img width="495" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TadejaMK&layout=compact&theme=dark&hide_border=true&bg_color=0a0f0a&title_color=39ff6a&text_color=c9d1d9&card_width=495" />
 
-<img width="495" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=TadejaMK&bg_color=0a0f0a&color=39ff6a&line=39ff6a&point=ffffff&area=true&area_color=39ff6a&hide_border=true&title_color=39ff6a&custom_title=Contribution%20Graph&height=300" />
-
 </div>
-
-```diff
-+ [ OK ] stats loaded
-+ [ OK ] 4 modules online :: stats · languages · streak · graph
-
-+ user@archive:~$ logout
-+ [ OK ] connection closed.
-+ ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
-```
