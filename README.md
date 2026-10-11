@@ -1,56 +1,81 @@
-# About Me
+# Hi, I'm Ken
 
-I build websites and creative IT projects, and I'm open to collaborating on web and game development. I'm currently strengthening my skills in JavaScript, TypeScript, React, Node.js, C++, Java, C#, and networking.
+```
+ _  __  _____  _   _
+| |/ / | ____|| \ | |
+| ' /  |  _|  |  \| |
+| . \  | |___ | |\  |
+|_|\_\ |_____||_| \_|
+```
 
-- **Focus areas:** Web development, web design, game development (GameMaker), and digital art
-- **Currently learning:** JavaScript, TypeScript, React, Node.js, C++, Java, C#, and networking
-- **Collaboration:** Open to web and game projects
-- **Outside of code:** I have three cats named Pani, Noo, and Luni
+## About Me
 
-## Connect
+- I build websites and creative IT projects.
+- Open to collaborating on web and game projects.
+- Currently learning JavaScript, TypeScript, React, Node.js, C++, Java, C#, and networking.
+- Ask me about coding, GameMaker, web design, art, and cats.
+- I have three cats: Pani, Noo, and Luni.
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/27kenarchive)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_to.kenn/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://ph.pinterest.com/ArchiveKen/)
+## Skill Set
 
-## Tech Stack
+<details open>
+<summary><b>Frontend</b></summary>
+<br>
 
-**Languages**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+</details>
 
-**Frameworks and Platforms**
+<details open>
+<summary><b>Languages</b></summary>
+<br>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
 
-**Databases, Servers, and Networking**
+</details>
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
+<details open>
+<summary><b>Others</b></summary>
+<br>
 
-**Tools and Hosting**
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+</details>
+
+## Connect with Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://web.facebook.com/27kenarchive)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_to.kenn/)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=flat&logo=Pinterest&logoColor=white)](https://ph.pinterest.com/ArchiveKen/)
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=TadejaMK&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=TadejaMK&theme=transparent&hide_border=false)
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=TadejaMK&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=TadejaMK&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=TadejaMK&theme=transparent&hide_border=true&layout=compact&langs_count=8)
 
-## Top Contributions
+![GitHub Streak](https://streak-stats.demolab.com/?user=TadejaMK&theme=transparent&hide_border=true)
 
-![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=TadejaMK&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TadejaMK&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=TadejaMK&theme=flat&no-bg=true&no-frame=true)
+
+## Repositories
+
+Browse my work on [GitHub](https://github.com/TadejaMK?tab=repositories).
+
+![Profile views](https://komarev.com/ghpvc/?username=TadejaMK&style=flat&color=blue)
