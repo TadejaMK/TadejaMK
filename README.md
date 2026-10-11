@@ -112,6 +112,4 @@
 
 <img width="495" alt="GitHub streak" src="https://streak-stats.demolab.com?user=TadejaMK&theme=dark&hide_border=true&background=0a0f0a&ring=39ff6a&fire=39ff6a&currStreakLabel=39ff6a&width=495" />
 
-<img width="495" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=TadejaMK&bg_color=0a0f0a&color=39ff6a&line=39ff6a&point=ffffff&area=true&area_color=39ff6a&hide_border=true&title_color=39ff6a&custom_title=Contribution%20Graph&height=300" />
-
 </div>
