@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=640&height=40&lines=Building+websites+and+creative+IT+projects;Learning+JavaScript%2C+TypeScript%2C+and+React;Open+to+web+and+game+collabs;Ask+me+about+GameMaker%2C+art%2C+and+cats" alt="Building websites and creative IT projects">
+
+</div>
+
 ```
 ██╗  ██╗███████╗███╗   ██╗
 ██║ ██╔╝██╔════╝████╗  ██║
@@ -10,27 +16,15 @@
 ```
 
 ```
- /\_/\      /\_/\      /\_/\
-( o.o )    ( -.- )    ( ^.^ )
- > ^ <      > ^ <      > ^ <
- Pani        Noo       Luni
+ /\_/\      /\_/\      /\_/\        .-~~~-.
+( o.o )    ( -.- )    ( ^.^ )      ( ^ v ^ )  <3
+ > ^ <      > ^ <      > ^ <       '-.___.-'
+  Pani       Noo        Luni         Jisel
 ```
 
 ## About Me
 
-```
-+--------------------------------------------------------------+
-|  ken@portfolio:~$ cat about.txt                              |
-|                                                              |
-|  I build websites and creative IT projects.                  |
-|  Open to collaborating on web and game projects.             |
-|                                                              |
-|  Learning : JavaScript, TypeScript, React, Node.js,          |
-|             C++, Java, C#, networking                        |
-|  Ask me   : coding, GameMaker, web design, art, cats         |
-|  Cats     : Pani, Noo, Luni (three of them)                  |
-+--------------------------------------------------------------+
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=600&color=808080&width=640&height=230&multiline=true&repeat=true&lines=ken%40portfolio%3A~%24+cat+about.txt;I+build+websites+and+creative+IT+projects.;Open+to+collaborating+on+web+and+game+projects.;Learning%3A+JavaScript%2C+TypeScript%2C+React%2C+Node.js%2C;C%2B%2B%2C+Java%2C+C%23%2C+and+networking;Ask+me%3A+coding%2C+GameMaker%2C+web+design%2C+art%2C+cats;Cats%3A+Pani%2C+Noo%2C+Luni+(three+of+them)" alt="I build websites and creative IT projects. Open to collaborating on web and game projects. Learning JavaScript, TypeScript, React, Node.js, C++, Java, C#, and networking. Ask me about coding, GameMaker, web design, art, and cats. I have three cats: Pani, Noo, and Luni.">
 
 ## Skill Set
 
