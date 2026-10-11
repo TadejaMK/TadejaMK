@@ -1,93 +1,150 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3a3a3a,100:000000&height=220&section=header&text=Welcome%20to%20Ken's%20GitHub&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=%3C%2F%3E&descSize=26&descAlignY=62" alt="Welcome to Ken's GitHub" width="100%">
-
-<a href="https://github.com/TadejaMK"><img src="https://img.shields.io/badge/-GITHUB-000000?style=flat-square&logo=github&logoColor=white" alt="GITHUB"></a> <a href="https://web.facebook.com/27kenarchive"><img src="https://img.shields.io/badge/-FACEBOOK-000000?style=flat-square&logo=facebook&logoColor=white" alt="FACEBOOK"></a> <a href="https://www.instagram.com/_to.kenn/"><img src="https://img.shields.io/badge/-INSTAGRAM-000000?style=flat-square&logo=instagram&logoColor=white" alt="INSTAGRAM"></a> <a href="https://ph.pinterest.com/ArchiveKen/"><img src="https://img.shields.io/badge/-PINTEREST-000000?style=flat-square&logo=pinterest&logoColor=white" alt="PINTEREST"></a>
-
-</div>
-
-<h2 align="center">About me</h2>
-
-<div align="center">
-<table>
-<tr>
-<td>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=700&color=808080&width=520&height=120&multiline=true&repeat=true&lines=%3E+BOOT+SEQUENCE...;%3E+SUBJECT%3A+KEN;%3E+3+CATS+DETECTED%2C+1+GIRLFRIEND+DETECTED;%3E+STATUS%3A+OPEN+TO+COLLAB" alt="Boot sequence: subject Ken, three cats detected, status open to collaborate">
 
 ```
-                        ****++=
-                   #%%%%%####**++=-:       .........
-                 %%%%%%%%%####**++=-;,^   @@@@@   ^^^..
-               #%%%%%%%%%%%###**++=--;,.    oooo@@ ^^..
-              #%%%%%%%%%%%###***++=--;:..     oo@@ ^..
-              #%%%%%%%%%%###***++==-;;,..    oo@ ^..
-             ##%%%%%%%%####***++==--;:,... o@@^^.
-         .^^ *###########****++==--;:,..o@ ^^.
-      .^^@@o +*#######*****+++==--;:o@@.^.
-   ..^ @oo    +*********+++===-oo@:^^....
- ..^ @@oo     -=++++++++==oo@-^^.,.......
-..^^ @@oooo    ;-oooo@@=^^..;::,........
-..^^^   @@@@@   ^^^..;;;;;::,,........
-   .........       ..,,,,...........
-                        .......
+                34875210  |  TADEJAMK  |  39552450                
+
+          KEN  •  DEV LOG  •  CATS 3  •  OPEN TO COLLAB           
+
+┌ SIGNAL //                                                        ┐
+                   █   █ █     █ █                      
+                   ▒ █ ▒ ▒ █ █ ▒ ▒ █ █ █                
+               █ █ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ █              
+             █ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ █ █   █      
+       █ █ █ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒   ▒      
+ █ █ █ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ █ ▒ █ █ █
+└                                                                  ┘
+
+┌ CIPHER //                                                        ┐
+ UJPA.VCO.770.INR.CWI
+ KYHQ.JAC.676.YDM.DJM
+ CAVA.GGB.581.MWM.NCS
+ UGYV.IKC.418.KAN.YDE
+ 
+ PUBLIC DEV LAB // TERMINAL ONLINE // PRF-0001
+ ACCESS: PUBLIC // ANALYST: KEN // HANDLE: TADEJAMK
+ FOCUS: WEB // GAMES // ART // CATS
+ STATUS: OPEN TO COLLABORATE // LEARNING IN PROGRESS
+└                                                                  ┘
 ```
 
-</td>
-<td width="40%">
-
-Hello there! I'm **Ken**. I build websites and creative IT projects, and I'm always improving my programming and development skills. I'm currently learning JavaScript, TypeScript, React, Node.js, C++, Java, C#, and networking, and I'm open to collaborating on web and game projects.
-
-Ask me about coding, GameMaker, web design, art, and cats.
-
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-
-**Building websites and creative IT projects**<br>
-**Learning JavaScript, TypeScript, React, and Node.js**<br>
-**Open to web and game collaborations**<br>
-**Cat parent to Pani, Noo, and Luni**
-
-</div>
-
-<h2 align="center">Companions</h2>
-
-<div align="center">
-<table>
-<tr>
-<td>
-
 ```
- /\_/\      /\_/\      /\_/\        .-~~~-.
-( o.o )    ( -.- )    ( ^.^ )      ( ^ v ^ )  <3
- > ^ <      > ^ <      > ^ <       '-.___.-'
-  Pani       Noo        Luni         Jisel
+┌ ORBIT // OBJECT-01                                               ┐
+ 
+                         ****++=
+                    #%%%%%####**++=-:       .........
+                  %%%%%%%%%####**++=-;,^   @@@@@   ^^^..
+                #%%%%%%%%%%%###**++=--;,.    oooo@@ ^^..
+               #%%%%%%%%%%%###***++=--;:..     oo@@ ^..
+               #%%%%%%%%%%###***++==-;;,..    oo@ ^..
+              ##%%%%%%%%####***++==--;:,... o@@^^.
+          .^^ *###########****++==--;:,..o@ ^^.
+       .^^@@o +*#######*****+++==--;:o@@.^.
+    ..^ @oo    +*********+++===-oo@:^^....
+  ..^ @@oo     -=++++++++==oo@-^^.,.......
+ ..^^ @@oooo    ;-oooo@@=^^..;::,........
+ ..^^^   @@@@@   ^^^..;;;;;::,,........
+    .........       ..,,,,...........
+                         .......
+ 
+└                                                                  ┘
 ```
 
-</td>
-</tr>
-</table>
-</div>
+```
+┌ COMPANIONS // 4 ONLINE                                           ┐
+ 
+    /\_/\      /\_/\      /\_/\        .-~~~-.
+   ( o.o )    ( -.- )    ( ^.^ )      ( ^ v ^ )  <3
+    > ^ <      > ^ <      > ^ <       '-.___.-'
+     Pani       Noo        Luni         Jisel
+ 
+ PURR LEVEL //
+ ▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▁▂▃▄▅
+└                                                                  ┘
+```
 
-<h2 align="center">Technologies</h2>
+## SKILL / DIAGNOSTIC
 
-<div align="center">
+```
+┌ SKILL / DIAGNOSTIC                                               ┐
+ 
+ HTML5     85%         PYTHON    60%         GAMEMAKER 65%
+ JS        65%         PHP       55%         GITHUB    70%
+ 
+└                                                                  ┘
+```
 
-<img src="https://img.shields.io/badge/-C-000000?style=flat-square&logo=c&logoColor=white" alt="C"> <img src="https://img.shields.io/badge/-C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=csharp&logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/-.NET-000000?style=flat-square&logo=.net&logoColor=white" alt=".NET"> <img src="https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/-Apache-000000?style=flat-square&logo=apache&logoColor=white" alt="Apache"> <img src="https://img.shields.io/badge/-Cisco-000000?style=flat-square&logo=cisco&logoColor=white" alt="Cisco"> <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/-Netlify-000000?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"> <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"> <img src="https://img.shields.io/badge/-Canva-000000?style=flat-square&logo=canva&logoColor=white" alt="Canva"> <img src="https://img.shields.io/badge/-GameMaker-000000?style=flat-square" alt="GameMaker">
+Open a group for the full meters.
 
-</div>
+<details>
+<summary><code>FRONTEND //</code></summary>
 
-<h2 align="center">Statistics</h2>
+```
+┌ FRONTEND                                                         ┐
+ 
+ HTML5       ■■■■■■■■□□   85%
+ JavaScript  ■■■■■■□□□□   65%
+ TypeScript  ■■■■□□□□□□   40%
+ React       ■■■■□□□□□□   40%
+ Canva       ■■■■■■■■□□   75%
+ 
+└                                                                  ┘
+```
 
-<div align="center">
+</details>
 
-<img src="https://github-readme-stats.shion.dev/api?username=TadejaMK&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false" alt="Ken's GitHub stats" height="170">
-<img src="https://streak-stats.demolab.com/?user=TadejaMK&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa&border=ffffff" alt="Ken's contribution streak" height="170">
+<details>
+<summary><code>LANGUAGES //</code></summary>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TadejaMK&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&title_color=ffffff&hide_border=false&border_color=ffffff" alt="Ken's contribution graph" width="100%">
+```
+┌ LANGUAGES                                                        ┐
+ 
+ C           ■■■■■□□□□□   50%
+ C++         ■■■■□□□□□□   40%
+ C#          ■■■■□□□□□□   45%
+ Java        ■■■■□□□□□□   45%
+ Python      ■■■■■■□□□□   60%
+ PHP         ■■■■■■□□□□   55%
+ 
+└                                                                  ┘
+```
 
-<img src="https://komarev.com/ghpvc/?username=TadejaMK&style=flat-square&color=000000&label=VIEWS" alt="Profile views">
+</details>
 
-</div>
+<details>
+<summary><code>TOOLS + OTHER //</code></summary>
+
+```
+┌ TOOLS + OTHER                                                    ┐
+ 
+ Node.js     ■■■■□□□□□□   35%
+ MySQL       ■■■■■■□□□□   55%
+ Apache      ■■■■■□□□□□   50%
+ Networking  ■■■■□□□□□□   40%
+ GameMaker   ■■■■■■□□□□   65%
+ GitHub      ■■■■■■■□□□   70%
+ Netlify     ■■■■■■□□□□   65%
+ Vercel      ■■■■■■□□□□   65%
+ 
+└                                                                  ┘
+```
+
+</details>
+
+## CONNECT
+
+```
+┌─ OPEN CHANNELS ──────────────────────────────────────────────────┐
+│ [ FACEBOOK ]   [ INSTAGRAM ]   [ PINTEREST ]   [ GITHUB ]        │
+│                                                                  │
+│ STATUS : AWAITING TRANSMISSION                                   │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+- [GitHub repositories](https://github.com/TadejaMK?tab=repositories)
+- [Facebook](https://web.facebook.com/27kenarchive)
+- [Instagram](https://www.instagram.com/_to.kenn/)
+- [Pinterest](https://ph.pinterest.com/ArchiveKen/)
+
+```
+       •  CATS 3  •  PRESENCE ONLINE  •  OPEN TO COLLAB  •        
+```
