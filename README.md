@@ -7,6 +7,7 @@
 + ╎  ██   ██ ██   ██ ██      ██   ██ ██  ██  ██  ██       ╎
 + ╎  ██   ██ ██   ██  ██████ ██   ██ ██   ████   ███████  ╎
 + ╎                                                       ╎
++ ╎   OWNER :: <YOUR NAME>                                ╎
 + └╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┘
 ```
 
@@ -22,8 +23,46 @@
 + [ OK ] initializing readme session...
 
 + user@archive:~$ whoami
++ > <YOUR NAME>
 + > a personal archive, indexed like a system log.
 + > single page. static. no build step.
+
++ user@archive:~$ cat profile.txt
++         ▄▄▄██████▄▄▄
++       ▄█▀▀▀▀▀▀▀▀▀▀▀▀█▄
++      ██▀▄▄▄▄▄▄▄▄▄▄▄▀██
++      ▀█  ▀▀▀    ▀▀▀  █▀
++       █  ▀█▀    ▀█▀  █
++       █      ▐▌      █
++       ▀█▄    ▀▀    ▄█▀
++     ▄▄▄▀████▄▄▄▄████▀▄▄▄
++    █████▄▄ ▀▀████▀▀ ▄▄█████
++    ██████ ▀▄▄ ██ ▄▄▀ ██████
++    ██████    ▐██▌    ██████
++    ██████    ▐██▌    ██████
+
++ user@archive:~$ cat stats.txt
++ ┌──────────────────────────────────────────┐
++ │ NAME     : <YOUR NAME>                   │
++ │ ALIAS    : <HANDLE>                      │
++ │ AGE      : <AGE>                         │
++ │ BASE     : <CITY, COUNTRY>               │
++ │ CLASS    : Web Developer (in training)   │
++ │ STATUS   : ONLINE                        │
++ ├──────────────────────────────────────────┤
++ │ HTML / CSS   ████████████  LV.MAX        │
++ │ JavaScript   ████████░░░░  LV.INT        │
++ │ React        ████░░░░░░░░  LV.DEV        │
++ │ Tailwind     ████░░░░░░░░  LV.DEV        │
++ │ TypeScript   ████░░░░░░░░  LV.DEV        │
++ │ Node.js      ████░░░░░░░░  LV.DEV        │
++ │ Vite         ████░░░░░░░░  LV.DEV        │
++ ├──────────────────────────────────────────┤
++ │ CREATIVITY   ██████████░░  85            │
++ │ FOCUS        ████████░░░░  70            │
++ │ DESIGN SENSE █████████░░░  75            │
++ │ COFFEE       ████████████  ∞             │
++ └──────────────────────────────────────────┘
 
 + user@archive:~$ ls features/
 + [ OK ] boot-sequence intro
