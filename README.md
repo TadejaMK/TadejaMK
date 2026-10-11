@@ -1,150 +1,153 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=700&color=808080&width=520&height=120&multiline=true&repeat=true&lines=%3E+BOOT+SEQUENCE...;%3E+SUBJECT%3A+KEN;%3E+3+CATS+DETECTED%2C+1+GIRLFRIEND+DETECTED;%3E+STATUS%3A+OPEN+TO+COLLAB" alt="Boot sequence: subject Ken, three cats detected, status open to collaborate">
+<div align="center">
 
 ```
-                34875210  |  TADEJAMK  |  39552450                
-
-          KEN  •  DEV LOG  •  CATS 3  •  OPEN TO COLLAB           
-
-┌ SIGNAL //                                                        ┐
-                   █   █ █     █ █                      
-                   ▒ █ ▒ ▒ █ █ ▒ ▒ █ █ █                
-               █ █ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ █              
-             █ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ █ █   █      
-       █ █ █ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒   ▒      
- █ █ █ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ ▒ █ ▒ █ █ █
-└                                                                  ┘
-
-┌ CIPHER //                                                        ┐
- UJPA.VCO.770.INR.CWI
- KYHQ.JAC.676.YDM.DJM
- CAVA.GGB.581.MWM.NCS
- UGYV.IKC.418.KAN.YDE
- 
- PUBLIC DEV LAB // TERMINAL ONLINE // PRF-0001
- ACCESS: PUBLIC // ANALYST: KEN // HANDLE: TADEJAMK
- FOCUS: WEB // GAMES // ART // CATS
- STATUS: OPEN TO COLLABORATE // LEARNING IN PROGRESS
-└                                                                  ┘
+SYS.BOOT // ARCHIVE
+INITIALIZING... [██████████] 100%
 ```
 
-```
-┌ ORBIT // OBJECT-01                                               ┐
- 
-                         ****++=
-                    #%%%%%####**++=-:       .........
-                  %%%%%%%%%####**++=-;,^   @@@@@   ^^^..
-                #%%%%%%%%%%%###**++=--;,.    oooo@@ ^^..
-               #%%%%%%%%%%%###***++=--;:..     oo@@ ^..
-               #%%%%%%%%%%###***++==-;;,..    oo@ ^..
-              ##%%%%%%%%####***++==--;:,... o@@^^.
-          .^^ *###########****++==--;:,..o@ ^^.
-       .^^@@o +*#######*****+++==--;:o@@.^.
-    ..^ @oo    +*********+++===-oo@:^^....
-  ..^ @@oo     -=++++++++==oo@-^^.,.......
- ..^^ @@oooo    ;-oooo@@=^^..;::,........
- ..^^^   @@@@@   ^^^..;;;;;::,,........
-    .........       ..,,,,...........
-                         .......
- 
-└                                                                  ┘
-```
+# 档案 · My Archive.
+
+**Cats. Art. People I love.** `// 12 records logged`
+
+🃜 🃚 🃖 🃁 🂭 🂺
+
+[ **Ken's · 2020—2025 · Selected Records** ]
+
+[**▶ ENTER THE ARCHIVE**](https://krchive.netlify.app/)
+
+![Status](https://img.shields.io/badge/STATUS-LIVE-2ea44f?style=flat-square)
+![Host](https://img.shields.io/badge/HOSTED_ON-NETLIFY-00C7B7?style=flat-square)
+![Vol](https://img.shields.io/badge/VOL.-01-black?style=flat-square)
+![Theme](https://img.shields.io/badge/THEME-☾_/_☀-lightgrey?style=flat-square)
+
+</div>
+
+---
+
+## `[ 00 // Overview ]`
+
+This is my archive. A personal collection of things I love: art, moments, people.
+
+A single-page portfolio built like a system boot log. Scroll through profiles, curated art, original works, personal projects, logged wins, and a toolset, all indexed as records.
 
 ```
-┌ COMPANIONS // 4 ONLINE                                           ┐
- 
-    /\_/\      /\_/\      /\_/\        .-~~~-.
-   ( o.o )    ( -.- )    ( ^.^ )      ( ^ v ^ )  <3
-    > ^ <      > ^ <      > ^ <       '-.___.-'
-     Pani       Noo        Luni         Jisel
- 
- PURR LEVEL //
- ▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▁▂▃▄▅
-└                                                                  ┘
+> LOAD  archive.sys
+> MODE  personal / portfolio
+> FEEL  quiet, nostalgic, a little chaotic
+> DONE
 ```
 
-## SKILL / DIAGNOSTIC
+---
+
+## `[ 01 // Profiles ]`
+
+| NODE | RECORD | NOTE |
+|------|--------|------|
+| `NODE_01` | **Ken** | The one keeping the archive. |
+| `NODE_02` | **Jhaezel** | The person who makes every ordinary day worth archiving. |
+| `NODE_03` | **The Cats** | Pani, Noo, and Luni. Three chaos agents and the best part of coming home. |
+| `NODE_04` | **Pani** · *The Oldest* | The biggest, and the sleepiest. |
+| `NODE_05` | **Luni** · *The Gentle* | Second oldest, the most gentle of the three. |
+| `NODE_06` | **Noo** · *The Chaotic* | The youngest, the most chaotic, and the clingiest. |
+
+---
+
+## `[ 02 // Curated ]` Art I Love
+
+| TAG | TITLE | ARTIST |
+|-----|-------|--------|
+| `[ Classical ]` | *Hymen, oh Hyménée!* | Juan Luna |
+| `[ Digital ]` | *Fubao the Famous Panda* | Seulgi |
+| `[ Sculpture ]` | *Crouching Figure of Atlas* | Unknown · MET 1992 |
+
+---
+
+## `[ 03 // Original ]` My Works
+
+| YEAR | TITLE |
+|------|-------|
+| `[ 2025 ]` | *Reflections of the Forgotten* |
+| `[ 2025 ]` | *Tahimik Na Nakaraan* |
+| `[ 2025 ]` | *Like a poem left unfinished* |
+
+---
+
+## `[ PROJECTS // 01–02 ]` My Personal Projects
+
+### 🎟 Ticket of Omoide `● WEB PROJECT · LIVE`
+> Every memory deserves a ticket, a web memory folder.
+
+[**ticketofomoide.netlify.app ↗**](https://ticketofomoide.netlify.app/)
+
+### 🗺 Stamp Quest `● WEB PROJECT · LIVE`
+> Make your stamp collection more fun and interactive with Stamp Quest.
+
+[**stampquest.netlify.app ↗**](https://stampquest.netlify.app/)
+
+---
+
+## `[ 04 // Logged Wins ]` Achievements
+
+| MODULE | CATEGORY | AWARD | SCHOOL | STATUS |
+|--------|----------|-------|--------|--------|
+| `MODULE_01` | Game Expo // Software Engineering | **Best Score** | ACLC College Meycauayan | `AWARDED` |
+| `MODULE_02` | Game Expo // Software Engineering | **Best Audio** | ACLC College Meycauayan | `AWARDED` |
+| `MODULE_03` | Expo // Entrepreneurship | **Entrepreneur of the Year** | ACLC College Meycauayan | `AWARDED` |
+| `MODULE_04` | Web Design // Website Development | **Best Web Design** | STI College Meycauayan | `AWARDED` |
+
+---
+
+## `[ 05 // Toolset ]` What I Know.
 
 ```
-┌ SKILL / DIAGNOSTIC                                               ┐
- 
- HTML5     85%         PYTHON    60%         GAMEMAKER 65%
- JS        65%         PHP       55%         GITHUB    70%
- 
-└                                                                  ┘
+PROFICIENT    ████████████  HTML · CSS · GameMaker
+INTERMEDIATE  ████████░░░░  MySQL · JavaScript · C#
+DEVELOPING    ████░░░░░░░░  C++ · Java · Cisco Packet Tracer · Node.js
+                            React.js · Yarn · TailwindCSS · Vite · TypeScript
 ```
 
-Open a group for the full meters.
+---
 
-<details>
-<summary><code>FRONTEND //</code></summary>
+## `[ 06 // Run Locally ]`
 
-```
-┌ FRONTEND                                                         ┐
- 
- HTML5       ■■■■■■■■□□   85%
- JavaScript  ■■■■■■□□□□   65%
- TypeScript  ■■■■□□□□□□   40%
- React       ■■■■□□□□□□   40%
- Canva       ■■■■■■■■□□   75%
- 
-└                                                                  ┘
-```
+```bash
+# clone the archive
+git clone https://github.com/<your-username>/<your-repo>.git
 
-</details>
+# enter the directory
+cd <your-repo>
 
-<details>
-<summary><code>LANGUAGES //</code></summary>
-
-```
-┌ LANGUAGES                                                        ┐
- 
- C           ■■■■■□□□□□   50%
- C++         ■■■■□□□□□□   40%
- C#          ■■■■□□□□□□   45%
- Java        ■■■■□□□□□□   45%
- Python      ■■■■■■□□□□   60%
- PHP         ■■■■■■□□□□   55%
- 
-└                                                                  ┘
+# open index.html in your browser
+# or serve it locally
+npx serve .
 ```
 
-</details>
+---
 
-<details>
-<summary><code>TOOLS + OTHER //</code></summary>
-
-```
-┌ TOOLS + OTHER                                                    ┐
- 
- Node.js     ■■■■□□□□□□   35%
- MySQL       ■■■■■■□□□□   55%
- Apache      ■■■■■□□□□□   50%
- Networking  ■■■■□□□□□□   40%
- GameMaker   ■■■■■■□□□□   65%
- GitHub      ■■■■■■■□□□   70%
- Netlify     ■■■■■■□□□□   65%
- Vercel      ■■■■■■□□□□   65%
- 
-└                                                                  ┘
-```
-
-</details>
-
-## CONNECT
+## `[ 07 // Structure ]`
 
 ```
-┌─ OPEN CHANNELS ──────────────────────────────────────────────────┐
-│ [ FACEBOOK ]   [ INSTAGRAM ]   [ PINTEREST ]   [ GITHUB ]        │
-│                                                                  │
-│ STATUS : AWAITING TRANSMISSION                                   │
-└──────────────────────────────────────────────────────────────────┘
+.
+├── index.html
+└── assets/
+    └── images/      # profiles, favorite art, original works
 ```
 
-- [GitHub repositories](https://github.com/TadejaMK?tab=repositories)
-- [Facebook](https://web.facebook.com/27kenarchive)
-- [Instagram](https://www.instagram.com/_to.kenn/)
-- [Pinterest](https://ph.pinterest.com/ArchiveKen/)
+---
+
+## `[ 08 // Contact ]`
 
 ```
-       •  CATS 3  •  PRESENCE ONLINE  •  OPEN TO COLLAB  •        
+> CONNECT   krchive.netlify.app
+> LOCATION  🇵🇭 Philippines
 ```
+
+---
+
+<div align="center">
+
+**MYrchive © 2025 · Archive Index**
+
+`END OF RECORD`
+
+</div>
