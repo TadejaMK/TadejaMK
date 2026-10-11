@@ -5,13 +5,13 @@ SYS.BOOT // ARCHIVE
 INITIALIZING... [██████████] 100%
 ```
 
-# 档案 · My Archive.
+# 档案 · Archive.
 
-**Cats. Art. People I love.** `// 12 records logged`
+**A personal archive, indexed like a system log.**
 
 🃜 🃚 🃖 🃁 🂭 🂺
 
-[ **Ken's · 2020—2025 · Selected Records** ]
+[ **Selected Records · 2020—2025** ]
 
 [**▶ ENTER THE ARCHIVE**](https://krchive.netlify.app/)
 
@@ -26,89 +26,53 @@ INITIALIZING... [██████████] 100%
 
 ## `[ 00 // Overview ]`
 
-This is my archive. A personal collection of things I love: art, moments, people.
-
-A single-page portfolio built like a system boot log. Scroll through profiles, curated art, original works, personal projects, logged wins, and a toolset, all indexed as records.
+A single-page personal portfolio built like a system boot log. Everything is catalogued as a record: profiles, art, works, projects, wins, and tools.
 
 ```
 > LOAD  archive.sys
 > MODE  personal / portfolio
-> FEEL  quiet, nostalgic, a little chaotic
+> FEEL  quiet, nostalgic, a little glitchy
 > DONE
 ```
 
 ---
 
-## `[ 01 // Profiles ]`
+## `[ 01 // Features ]`
 
-| NODE | RECORD | NOTE |
-|------|--------|------|
-| `NODE_01` | **Ken** | The one keeping the archive. |
-| `NODE_02` | **Jhaezel** | The person who makes every ordinary day worth archiving. |
-| `NODE_03` | **The Cats** | Pani, Noo, and Luni. Three chaos agents and the best part of coming home. |
-| `NODE_04` | **Pani** · *The Oldest* | The biggest, and the sleepiest. |
-| `NODE_05` | **Luni** · *The Gentle* | Second oldest, the most gentle of the three. |
-| `NODE_06` | **Noo** · *The Chaotic* | The youngest, the most chaotic, and the clingiest. |
-
----
-
-## `[ 02 // Curated ]` Art I Love
-
-| TAG | TITLE | ARTIST |
-|-----|-------|--------|
-| `[ Classical ]` | *Hymen, oh Hyménée!* | Juan Luna |
-| `[ Digital ]` | *Fubao the Famous Panda* | Seulgi |
-| `[ Sculpture ]` | *Crouching Figure of Atlas* | Unknown · MET 1992 |
+| MODULE | FEATURE | STATUS |
+|--------|---------|--------|
+| `MODULE_01` | Boot-sequence intro animation | `ONLINE` |
+| `MODULE_02` | Dark / light theme toggle ☾ ☀ | `ONLINE` |
+| `MODULE_03` | Click-to-expand image cards | `ONLINE` |
+| `MODULE_04` | Indexed sections with `NODE_` and `MODULE_` tags | `ONLINE` |
+| `MODULE_05` | Responsive layout for desktop and mobile | `ONLINE` |
 
 ---
 
-## `[ 03 // Original ]` My Works
-
-| YEAR | TITLE |
-|------|-------|
-| `[ 2025 ]` | *Reflections of the Forgotten* |
-| `[ 2025 ]` | *Tahimik Na Nakaraan* |
-| `[ 2025 ]` | *Like a poem left unfinished* |
-
----
-
-## `[ PROJECTS // 01–02 ]` My Personal Projects
-
-### 🎟 Ticket of Omoide `● WEB PROJECT · LIVE`
-> Every memory deserves a ticket, a web memory folder.
-
-[**ticketofomoide.netlify.app ↗**](https://ticketofomoide.netlify.app/)
-
-### 🗺 Stamp Quest `● WEB PROJECT · LIVE`
-> Make your stamp collection more fun and interactive with Stamp Quest.
-
-[**stampquest.netlify.app ↗**](https://stampquest.netlify.app/)
-
----
-
-## `[ 04 // Logged Wins ]` Achievements
-
-| MODULE | CATEGORY | AWARD | SCHOOL | STATUS |
-|--------|----------|-------|--------|--------|
-| `MODULE_01` | Game Expo // Software Engineering | **Best Score** | ACLC College Meycauayan | `AWARDED` |
-| `MODULE_02` | Game Expo // Software Engineering | **Best Audio** | ACLC College Meycauayan | `AWARDED` |
-| `MODULE_03` | Expo // Entrepreneurship | **Entrepreneur of the Year** | ACLC College Meycauayan | `AWARDED` |
-| `MODULE_04` | Web Design // Website Development | **Best Web Design** | STI College Meycauayan | `AWARDED` |
-
----
-
-## `[ 05 // Toolset ]` What I Know.
+## `[ 02 // Sections ]`
 
 ```
-PROFICIENT    ████████████  HTML · CSS · GameMaker
-INTERMEDIATE  ████████░░░░  MySQL · JavaScript · C#
-DEVELOPING    ████░░░░░░░░  C++ · Java · Cisco Packet Tracer · Node.js
-                            React.js · Yarn · TailwindCSS · Vite · TypeScript
+[ 01 // Profiles ]   About
+[ 02 // Curated  ]   Favorite art
+[ 03 // Original ]   Personal works
+[ PROJECTS       ]   Web projects
+[ 04 // Logged   ]   Achievements
+[ 05 // Toolset  ]   Skills
 ```
 
 ---
 
-## `[ 06 // Run Locally ]`
+## `[ 03 // Toolset ]`
+
+```
+PROFICIENT    ████████████  HTML · CSS
+INTERMEDIATE  ████████░░░░  JavaScript
+DEVELOPING    ████░░░░░░░░  Node.js · React · Vite · TailwindCSS · TypeScript
+```
+
+---
+
+## `[ 04 // Run Locally ]`
 
 ```bash
 # clone the archive
@@ -124,29 +88,40 @@ npx serve .
 
 ---
 
-## `[ 07 // Structure ]`
+## `[ 05 // Structure ]`
 
 ```
 .
 ├── index.html
 └── assets/
-    └── images/      # profiles, favorite art, original works
+    └── images/
 ```
 
 ---
 
-## `[ 08 // Contact ]`
+## `[ 06 // Deploy ]`
 
 ```
-> CONNECT   krchive.netlify.app
-> LOCATION  🇵🇭 Philippines
+> HOST     Netlify
+> BUILD    none (static)
+> PUBLISH  /
+```
+
+Connect the repo to Netlify and deploy. No build step needed.
+
+---
+
+## `[ 07 // License ]`
+
+```
+© 2025 · All records reserved.
 ```
 
 ---
 
 <div align="center">
 
-**MYrchive © 2025 · Archive Index**
+**Archive Index · Vol. 01**
 
 `END OF RECORD`
 
