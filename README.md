@@ -1,14 +1,15 @@
 ```diff
-+ ┌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┐
-+ ╎                                                       ╎
-+ ╎   █████  ██████   ██████ ██   ██ ██ ██    ██ ███████  ╎
-+ ╎  ██   ██ ██   ██ ██      ██   ██ ██ ██    ██ ██       ╎
-+ ╎  ███████ ██████  ██      ███████ ██ ██    ██ █████    ╎
-+ ╎  ██   ██ ██   ██ ██      ██   ██ ██  ██  ██  ██       ╎
-+ ╎  ██   ██ ██   ██  ██████ ██   ██ ██   ████   ███████  ╎
-+ ╎                                                       ╎
-+ ╎   OWNER :: <YOUR NAME>                                ╎
-+ └╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┘
++       ▄▄▄██████▄▄▄        +-------------------------------------------------------+
++     ▄██▀▀▀▀▀▀▀▀▀▀██▄      |                                                       |
++     ██▀▄▄▄▄▄▄▄▄▄▄▀██      |   █████  ██████   ██████ ██   ██ ██ ██    ██ ███████  |
++     █▌ ▀█▄    ▄█▀ ▐█      |  ██   ██ ██   ██ ██      ██   ██ ██ ██    ██ ██       |
++     █▌     ▐▌     ▐█      |  ███████ ██████  ██      ███████ ██ ██    ██ █████    |
++     ▀█▄   ▀▀▀▀   ▄█▀      |  ██   ██ ██   ██ ██      ██   ██ ██  ██  ██  ██       |
++   ▄▄▄▄██▀▀████▀▀██▄▄▄▄    |  ██   ██ ██   ██  ██████ ██   ██ ██   ████   ███████  |
++   ████▀▀▄ ▐██▌ ▄▀▀████    |                                                       |
++   █████▌  ▐██▌  ▐█████    |   OWNER  :: </tokenn>                                 |
++   █████▌  ▐██▌  ▐█████    |   GITHUB :: @TadejaMK                                 |
++   █████▌  ▐██▌  ▐█████    +-------------------------------------------------------+
 ```
 
 ![status](https://img.shields.io/badge/STATUS-LIVE-39ff6a?style=flat-square&labelColor=0a0f0a)
@@ -23,47 +24,24 @@
 + [ OK ] initializing readme session...
 
 + user@archive:~$ whoami
-+ > <YOUR NAME>
++ > </tokenn>
 + > a personal archive, indexed like a system log.
 + > single page. static. no build step.
 
-+ user@archive:~$ cat profile.txt
-+         ▄▄▄██████▄▄▄
-+       ▄█▀▀▀▀▀▀▀▀▀▀▀▀█▄
-+      ██▀▄▄▄▄▄▄▄▄▄▄▄▀██
-+      ▀█  ▀▀▀    ▀▀▀  █▀
-+       █  ▀█▀    ▀█▀  █
-+       █      ▐▌      █
-+       ▀█▄    ▀▀    ▄█▀
-+     ▄▄▄▀████▄▄▄▄████▀▄▄▄
-+    █████▄▄ ▀▀████▀▀ ▄▄█████
-+    ██████ ▀▄▄ ██ ▄▄▀ ██████
-+    ██████    ▐██▌    ██████
-+    ██████    ▐██▌    ██████
++ user@archive:~$ gh stats --user TadejaMK
++ [ OK ] fetching live data from github...
+```
 
-+ user@archive:~$ cat stats.txt
-+ ┌──────────────────────────────────────────┐
-+ │ NAME     : <YOUR NAME>                   │
-+ │ ALIAS    : <HANDLE>                      │
-+ │ AGE      : <AGE>                         │
-+ │ BASE     : <CITY, COUNTRY>               │
-+ │ CLASS    : Web Developer (in training)   │
-+ │ STATUS   : ONLINE                        │
-+ ├──────────────────────────────────────────┤
-+ │ HTML / CSS   ████████████  LV.MAX        │
-+ │ JavaScript   ████████░░░░  LV.INT        │
-+ │ React        ████░░░░░░░░  LV.DEV        │
-+ │ Tailwind     ████░░░░░░░░  LV.DEV        │
-+ │ TypeScript   ████░░░░░░░░  LV.DEV        │
-+ │ Node.js      ████░░░░░░░░  LV.DEV        │
-+ │ Vite         ████░░░░░░░░  LV.DEV        │
-+ ├──────────────────────────────────────────┤
-+ │ CREATIVITY   ██████████░░  85            │
-+ │ FOCUS        ████████░░░░  70            │
-+ │ DESIGN SENSE █████████░░░  75            │
-+ │ COFFEE       ████████████  ∞             │
-+ └──────────────────────────────────────────┘
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TadejaMK&show_icons=true&theme=dark&hide_border=true&bg_color=0a0f0a&title_color=39ff6a&icon_color=39ff6a&text_color=c9d1d9" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TadejaMK&layout=compact&theme=dark&hide_border=true&bg_color=0a0f0a&title_color=39ff6a&text_color=c9d1d9" alt="Top languages" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TadejaMK&theme=dark&hide_border=true&background=0a0f0a&ring=39ff6a&fire=39ff6a&currStreakLabel=39ff6a" alt="GitHub streak" />
+</p>
+
+```diff
 + user@archive:~$ ls features/
 + [ OK ] boot-sequence intro
 + [ OK ] dark / light theme toggle
@@ -87,8 +65,8 @@
 + ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
 + user@archive:~$ git clone --mode
-+ ( ) [ https ]   git clone https://github.com/<your-username>/<your-repo>.git
-+ ( ) [ ssh   ]   git clone git@github.com:<your-username>/<your-repo>.git
++ ( ) [ https ]   git clone https://github.com/TadejaMK/<your-repo>.git
++ ( ) [ ssh   ]   git clone git@github.com:TadejaMK/<your-repo>.git
 
 + user@archive:~$ cd <your-repo> && npx serve .
 + [ OK ] serving on http://localhost:3000
