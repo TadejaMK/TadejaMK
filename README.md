@@ -95,14 +95,6 @@
 + [ OK ] fetching live data from github...
 ```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TadejaMK&show_icons=true&theme=dark&hide_border=true&bg_color=0a0f0a&title_color=39ff6a&icon_color=39ff6a&text_color=c9d1d9" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TadejaMK&layout=compact&theme=dark&hide_border=true&bg_color=0a0f0a&title_color=39ff6a&text_color=c9d1d9" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TadejaMK&theme=dark&hide_border=true&background=0a0f0a&ring=39ff6a&fire=39ff6a&currStreakLabel=39ff6a" alt="GitHub streak" />
-</p>
 
 ```diff
 + [ OK ] stats loaded
@@ -112,3 +104,4 @@
 + [ OK ] connection closed.
 + ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 ```
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TadejaMK&show_icons=true&theme=dark&hide_border=true&bg_color=0a0f0a&title_color=39ff6a&icon_color=39ff6a&text_color=c9d1d9" alt="GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TadejaMK&layout=compact&theme=dark&hide_border=true&bg_color=0a0f0a&title_color=39ff6a&text_color=c9d1d9" alt="Top languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=TadejaMK&theme=dark&hide_border=true&background=0a0f0a&ring=39ff6a&fire=39ff6a&currStreakLabel=39ff6a" alt="GitHub streak" /> </p>
