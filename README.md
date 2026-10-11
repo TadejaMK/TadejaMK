@@ -1,94 +1,109 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=640&height=40&lines=Building+websites+and+creative+IT+projects;Learning+JavaScript%2C+TypeScript%2C+and+React;Open+to+web+and+game+collabs;Ask+me+about+GameMaker%2C+art%2C+and+cats" alt="Building websites and creative IT projects">
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=700&color=808080&width=520&height=120&multiline=true&repeat=true&lines=%3E+BOOT+SEQUENCE...;%3E+SUBJECT%3A+KEN;%3E+3+CATS+DETECTED%2C+1+GIRLFRIEND+DETECTED;%3E+STATUS%3A+OPEN+TO+COLLAB" alt="Boot sequence: subject Ken, three cats detected, status open to collaborate">
 
 ```
-██╗  ██╗███████╗███╗   ██╗
-██║ ██╔╝██╔════╝████╗  ██║
-█████╔╝ █████╗  ██╔██╗ ██║
-██╔═██╗ ██╔══╝  ██║╚██╗██║
-██║  ██╗███████╗██║ ╚████║
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝
-
- web  |  games  |  art  |  cats
+┌─ KEN // PROFILE ─────────────────────────────────────────────────┐
+│                                                                  │
+│ · · · · · · · ██· · · ██· ██████████· ██· · · ██· · · · · · · ·  │
+│ · · · · · · · ██· · ██· · ██· · · · · ████· · ██· · · · · · · ·  │
+│ · · · · · · · ██████· · · ████████· · ██· ██· ██· · · · · · · ·  │
+│ · · · · · · · ██· · ██· · ██· · · · · ██· · ████· · · · · · · ·  │
+│ · · · · · · · ██· · · ██· ██████████· ██· · · ██· · · · · · · ·  │
+│                                                                  │
+│ web  //  games  //  art  //  cats                                │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 ```
- /\_/\      /\_/\      /\_/\        .-~~~-.
-( o.o )    ( -.- )    ( ^.^ )      ( ^ v ^ )  <3
- > ^ <      > ^ <      > ^ <       '-.___.-'
-  Pani       Noo        Luni         Jisel
+┌─ SUBJECT / READOUT ──────────────────────────────────────────────┐
+│ SUBJECT  : KEN                    HANDLE : TADEJAMK              │
+│ FOCUS    : WEB // GAMES // ART                                   │
+│ STATUS   : OPEN TO COLLABORATE                                   │
+│ LEARNING : JS, TS, REACT, NODE, C++, JAVA, C#, NETWORKING        │
+│ ASK ME   : CODING // GAMEMAKER // WEB DESIGN // ART // CATS      │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
-## About Me
+```
+┌─ COMPANIONS // 4 ONLINE ─────────────────────────────────────────┐
+│                                                                  │
+│    /\_/\      /\_/\      /\_/\        .-~~~-.                    │
+│   ( o.o )    ( -.- )    ( ^.^ )      ( ^ v ^ )  <3               │
+│    > ^ <      > ^ <      > ^ <       '-.___.-'                   │
+│     Pani       Noo        Luni         Jisel                     │
+│                                                                  │
+│ PURR LEVEL //                                                    │
+│ ▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▁▂▃▄▅▆▇█▇▆▅▄▃▂▁▁▂▃▄▅│
+└──────────────────────────────────────────────────────────────────┘
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=600&color=808080&width=640&height=230&multiline=true&repeat=true&lines=ken%40portfolio%3A~%24+cat+about.txt;I+build+websites+and+creative+IT+projects.;Open+to+collaborating+on+web+and+game+projects.;Learning%3A+JavaScript%2C+TypeScript%2C+React%2C+Node.js%2C;C%2B%2B%2C+Java%2C+C%23%2C+and+networking;Ask+me%3A+coding%2C+GameMaker%2C+web+design%2C+art%2C+cats;Cats%3A+Pani%2C+Noo%2C+Luni+(three+of+them)" alt="I build websites and creative IT projects. Open to collaborating on web and game projects. Learning JavaScript, TypeScript, React, Node.js, C++, Java, C#, and networking. Ask me about coding, GameMaker, web design, art, and cats. I have three cats: Pani, Noo, and Luni.">
+## SKILL / DIAGNOSTIC
 
-## Skill Set
-
-Click a folder to open it.
+Click a group to open it. Bars show how comfortable I am with each skill.
 
 <details>
-<summary><code>frontend/</code></summary>
+<summary><code>FRONTEND //</code></summary>
 
 ```
-frontend/
-|-- HTML5
-|-- JavaScript
-|-- TypeScript
-|-- React
-`-- Canva
+┌─ FRONTEND ───────────────────────────────────────────────────────┐
+│ HTML5      ████████████████████░░░░  85%  USING                  │
+│ JavaScript ████████████████░░░░░░░░  65%  LEARNING               │
+│ TypeScript ██████████░░░░░░░░░░░░░░  40%  LEARNING               │
+│ React      ██████████░░░░░░░░░░░░░░  40%  LEARNING               │
+│ Canva      ██████████████████░░░░░░  75%  USING                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 </details>
 
 <details>
-<summary><code>languages/</code></summary>
+<summary><code>LANGUAGES //</code></summary>
 
 ```
-languages/
-|-- C
-|-- C++
-|-- C#
-|-- Java
-|-- Python
-`-- PHP
+┌─ LANGUAGES ──────────────────────────────────────────────────────┐
+│ C          ████████████░░░░░░░░░░░░  50%  USING                  │
+│ C++        ██████████░░░░░░░░░░░░░░  40%  LEARNING               │
+│ C#         ███████████░░░░░░░░░░░░░  45%  LEARNING               │
+│ Java       ███████████░░░░░░░░░░░░░  45%  LEARNING               │
+│ Python     ██████████████░░░░░░░░░░  60%  USING                  │
+│ PHP        █████████████░░░░░░░░░░░  55%  USING                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 </details>
 
 <details>
-<summary><code>other/</code></summary>
+<summary><code>TOOLS + OTHER //</code></summary>
 
 ```
-other/
-|-- .NET
-|-- MySQL
-|-- Apache
-|-- Cisco
-|-- GitHub
-|-- Netlify
-`-- Vercel
+┌─ TOOLS + OTHER ──────────────────────────────────────────────────┐
+│ Node.js    ████████░░░░░░░░░░░░░░░░  35%  LEARNING               │
+│ MySQL      █████████████░░░░░░░░░░░  55%  USING                  │
+│ Apache     ████████████░░░░░░░░░░░░  50%  USING                  │
+│ Networking ██████████░░░░░░░░░░░░░░  40%  LEARNING               │
+│ GameMaker  ████████████████░░░░░░░░  65%  USING                  │
+│ GitHub     █████████████████░░░░░░░  70%  USING                  │
+│ Netlify    ████████████████░░░░░░░░  65%  USING                  │
+│ Vercel     ████████████████░░░░░░░░  65%  USING                  │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 </details>
 
-## Connect with Me
+## CONNECT
 
 ```
-[ Facebook ]   [ Instagram ]   [ Pinterest ]
+┌─ OPEN CHANNELS ──────────────────────────────────────────────────┐
+│ [ FACEBOOK ]   [ INSTAGRAM ]   [ PINTEREST ]                     │
+│                                                                  │
+│ STATUS : AWAITING TRANSMISSION                                   │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 - [Facebook](https://web.facebook.com/27kenarchive)
 - [Instagram](https://www.instagram.com/_to.kenn/)
 - [Pinterest](https://ph.pinterest.com/ArchiveKen/)
-
-## Repositories
+- [GitHub repositories](https://github.com/TadejaMK?tab=repositories)
 
 ```
-$ git log --all --author="Ken"
+END OF TRANSMISSION
 ```
-
-Browse my work on [GitHub](https://github.com/TadejaMK?tab=repositories).
