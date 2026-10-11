@@ -118,6 +118,4 @@
   </tr>
 </table>
 
-<img width="495" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TadejaMK&layout=compact&theme=dark&hide_border=true&bg_color=0a0f0a&title_color=39ff6a&text_color=c9d1d9&card_width=495" />
-
 </div>
