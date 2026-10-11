@@ -1,128 +1,83 @@
-<div align="center">
-
-```
-SYS.BOOT // ARCHIVE
-INITIALIZING... [██████████] 100%
-```
-
-# 档案 · Archive.
-
-**A personal archive, indexed like a system log.**
-
-🃜 🃚 🃖 🃁 🂭 🂺
-
-[ **Selected Records · 2020—2025** ]
-
-[**▶ ENTER THE ARCHIVE**](https://krchive.netlify.app/)
-
-![Status](https://img.shields.io/badge/STATUS-LIVE-2ea44f?style=flat-square)
-![Host](https://img.shields.io/badge/HOSTED_ON-NETLIFY-00C7B7?style=flat-square)
-![Vol](https://img.shields.io/badge/VOL.-01-black?style=flat-square)
-![Theme](https://img.shields.io/badge/THEME-☾_/_☀-lightgrey?style=flat-square)
-
-</div>
-
----
-
-## `[ 00 // Overview ]`
-
-A single-page personal portfolio built like a system boot log. Everything is catalogued as a record: profiles, art, works, projects, wins, and tools.
-
-```
-> LOAD  archive.sys
-> MODE  personal / portfolio
-> FEEL  quiet, nostalgic, a little glitchy
-> DONE
+```diff
++ ┌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┐
++ ╎                                                       ╎
++ ╎   █████  ██████   ██████ ██   ██ ██ ██    ██ ███████  ╎
++ ╎  ██   ██ ██   ██ ██      ██   ██ ██ ██    ██ ██       ╎
++ ╎  ███████ ██████  ██      ███████ ██ ██    ██ █████    ╎
++ ╎  ██   ██ ██   ██ ██      ██   ██ ██  ██  ██  ██       ╎
++ ╎  ██   ██ ██   ██  ██████ ██   ██ ██   ████   ███████  ╎
++ ╎                                                       ╎
++ └╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌┘
 ```
 
----
+![status](https://img.shields.io/badge/STATUS-LIVE-39ff6a?style=flat-square&labelColor=0a0f0a)
+![host](https://img.shields.io/badge/HOST-NETLIFY-39ff6a?style=flat-square&labelColor=0a0f0a)
+![build](https://img.shields.io/badge/BUILD-STATIC-39ff6a?style=flat-square&labelColor=0a0f0a)
+![theme](https://img.shields.io/badge/THEME-DARK_/_LIGHT-39ff6a?style=flat-square&labelColor=0a0f0a)
 
-## `[ 01 // Features ]`
+```diff
++ ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
-| MODULE | FEATURE | STATUS |
-|--------|---------|--------|
-| `MODULE_01` | Boot-sequence intro animation | `ONLINE` |
-| `MODULE_02` | Dark / light theme toggle ☾ ☀ | `ONLINE` |
-| `MODULE_03` | Click-to-expand image cards | `ONLINE` |
-| `MODULE_04` | Indexed sections with `NODE_` and `MODULE_` tags | `ONLINE` |
-| `MODULE_05` | Responsive layout for desktop and mobile | `ONLINE` |
++ user@archive:~$ booting up...
++ [ OK ] initializing readme session...
 
----
++ user@archive:~$ whoami
++ > a personal archive, indexed like a system log.
++ > single page. static. no build step.
 
-## `[ 02 // Sections ]`
++ user@archive:~$ ls features/
++ [ OK ] boot-sequence intro
++ [ OK ] dark / light theme toggle
++ [ OK ] click-to-expand image cards
++ [ OK ] indexed sections with NODE_ and MODULE_ tags
++ [ OK ] responsive layout, desktop + mobile
 
-```
-[ 01 // Profiles ]   About
-[ 02 // Curated  ]   Favorite art
-[ 03 // Original ]   Personal works
-[ PROJECTS       ]   Web projects
-[ 04 // Logged   ]   Achievements
-[ 05 // Toolset  ]   Skills
-```
++ user@archive:~$ cat sections.txt
++ [ 01 // Profiles ]    about
++ [ 02 // Curated  ]    favorite art
++ [ 03 // Original ]    personal works
++ [ PROJECTS       ]    web projects
++ [ 04 // Logged   ]    achievements
++ [ 05 // Toolset  ]    skills
 
----
++ user@archive:~$ cat toolset
++ PROFICIENT    ████████████  HTML · CSS
++ INTERMEDIATE  ████████░░░░  JavaScript
++ DEVELOPING    ████░░░░░░░░  Node.js · React · Vite · Tailwind · TS
 
-## `[ 03 // Toolset ]`
++ ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
-```
-PROFICIENT    ████████████  HTML · CSS
-INTERMEDIATE  ████████░░░░  JavaScript
-DEVELOPING    ████░░░░░░░░  Node.js · React · Vite · TailwindCSS · TypeScript
-```
++ user@archive:~$ git clone --mode
++ ( ) [ https ]   git clone https://github.com/<your-username>/<your-repo>.git
++ ( ) [ ssh   ]   git clone git@github.com:<your-username>/<your-repo>.git
 
----
++ user@archive:~$ cd <your-repo> && npx serve .
++ [ OK ] serving on http://localhost:3000
 
-## `[ 04 // Run Locally ]`
++ user@archive:~$ tree
++ .
++ ├── index.html
++ └── assets/
++     └── images/
 
-```bash
-# clone the archive
-git clone https://github.com/<your-username>/<your-repo>.git
++ user@archive:~$ deploy --host netlify
++ [ OK ] connect repo
++ [ OK ] build command: none
++ [ OK ] publish directory: /
++ [ OK ] site is live
 
-# enter the directory
-cd <your-repo>
++ ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
-# open index.html in your browser
-# or serve it locally
-npx serve .
-```
-
----
-
-## `[ 05 // Structure ]`
-
-```
-.
-├── index.html
-└── assets/
-    └── images/
-```
-
----
-
-## `[ 06 // Deploy ]`
-
-```
-> HOST     Netlify
-> BUILD    none (static)
-> PUBLISH  /
++ user@archive:~$ visit_archive
++ [ y / n ]
 ```
 
-Connect the repo to Netlify and deploy. No build step needed.
+<p align="center">
+  <a href="https://krchive.netlify.app/"><kbd>&nbsp;&nbsp;Submit&nbsp;&nbsp;</kbd></a>
+</p>
 
----
-
-## `[ 07 // License ]`
-
+```diff
++ user@archive:~$ exit
++ [ OK ] session closed.
++ © 2025 · all records reserved.
 ```
-© 2025 · All records reserved.
-```
-
----
-
-<div align="center">
-
-**Archive Index · Vol. 01**
-
-`END OF RECORD`
-
-</div>
