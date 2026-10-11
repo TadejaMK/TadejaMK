@@ -8,15 +8,55 @@
 
 <h2 align="center">About me</h2>
 
+<div align="center">
 <table>
 <tr>
-<td width="55%">
+<td>
+
+```
+                        ****++=
+                   #%%%%%####**++=-:       .........
+                 %%%%%%%%%####**++=-;,^   @@@@@   ^^^..
+               #%%%%%%%%%%%###**++=--;,.    oooo@@ ^^..
+              #%%%%%%%%%%%###***++=--;:..     oo@@ ^..
+              #%%%%%%%%%%###***++==-;;,..    oo@ ^..
+             ##%%%%%%%%####***++==--;:,... o@@^^.
+         .^^ *###########****++==--;:,..o@ ^^.
+      .^^@@o +*#######*****+++==--;:o@@.^.
+   ..^ @oo    +*********+++===-oo@:^^....
+ ..^ @@oo     -=++++++++==oo@-^^.,.......
+..^^ @@oooo    ;-oooo@@=^^..;::,........
+..^^^   @@@@@   ^^^..;;;;;::,,........
+   .........       ..,,,,...........
+                        .......
+```
+
+</td>
+<td width="40%">
 
 Hello there! I'm **Ken**. I build websites and creative IT projects, and I'm always improving my programming and development skills. I'm currently learning JavaScript, TypeScript, React, Node.js, C++, Java, C#, and networking, and I'm open to collaborating on web and game projects.
 
-Ask me about coding, GameMaker, web design, art, and cats. I have three cats named Pani, Noo, and Luni.
+Ask me about coding, GameMaker, web design, art, and cats.
 
 </td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+
+**Building websites and creative IT projects**<br>
+**Learning JavaScript, TypeScript, React, and Node.js**<br>
+**Open to web and game collaborations**<br>
+**Cat parent to Pani, Noo, and Luni**
+
+</div>
+
+<h2 align="center">Companions</h2>
+
+<div align="center">
+<table>
+<tr>
 <td>
 
 ```
@@ -29,14 +69,6 @@ Ask me about coding, GameMaker, web design, art, and cats. I have three cats nam
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-**Building websites and creative IT projects**<br>
-**Learning JavaScript, TypeScript, React, and Node.js**<br>
-**Open to web and game collaborations**<br>
-**Cat parent to Pani, Noo, and Luni**
-
 </div>
 
 <h2 align="center">Technologies</h2>
