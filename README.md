@@ -12,20 +12,68 @@
 +   █████▌  ▐██▌  ▐█████    +-------------------------------------------------------+
 ```
 
-<p align="center">
-  <img alt="status" src="https://img.shields.io/badge/STATUS-LIVE-39ff6a?style=flat-square&labelColor=0a0f0a" />
-  <img alt="host" src="https://img.shields.io/badge/HOST-NETLIFY-39ff6a?style=flat-square&labelColor=0a0f0a" />
-  <img alt="build" src="https://img.shields.io/badge/BUILD-STATIC-39ff6a?style=flat-square&labelColor=0a0f0a" />
-  <img alt="theme" src="https://img.shields.io/badge/THEME-DARK_/_LIGHT-39ff6a?style=flat-square&labelColor=0a0f0a" />
-</p>
+![status](https://img.shields.io/badge/STATUS-LIVE-39ff6a?style=flat-square&labelColor=0a0f0a)
+![host](https://img.shields.io/badge/HOST-NETLIFY-39ff6a?style=flat-square&labelColor=0a0f0a)
+![build](https://img.shields.io/badge/BUILD-STATIC-39ff6a?style=flat-square&labelColor=0a0f0a)
+![theme](https://img.shields.io/badge/THEME-DARK_/_LIGHT-39ff6a?style=flat-square&labelColor=0a0f0a)
 
-<p align="center">
-  <img src="assets/boot.gif" alt="boot sequence: whoami, features, sections, toolset" width="840" />
-</p>
+```diff
++ ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
-<p align="center">
-  <img src="assets/deploy.gif" alt="clone, serve, deploy to netlify" width="840" />
-</p>
++ user@archive:~$ booting up...
++ [ OK ] initializing readme session...
+
++ user@archive:~$ whoami
++ > </tokenn>
++ > a personal archive, indexed like a system log.
++ > single page. static. no build step.
+
++ user@archive:~$ ls features/
++ [ OK ] boot-sequence intro
++ [ OK ] dark / light theme toggle
++ [ OK ] click-to-expand image cards
++ [ OK ] indexed sections with NODE_ and MODULE_ tags
++ [ OK ] responsive layout, desktop + mobile
+
++ user@archive:~$ cat sections.txt
++ [ 01 // Profiles ]    about
++ [ 02 // Curated  ]    favorite art
++ [ 03 // Original ]    personal works
++ [ PROJECTS       ]    web projects
++ [ 04 // Logged   ]    achievements
++ [ 05 // Toolset  ]    skills
+
++ user@archive:~$ cat toolset
++ PROFICIENT    ████████████  HTML · CSS
++ INTERMEDIATE  ████████░░░░  JavaScript
++ DEVELOPING    ████░░░░░░░░  Node.js · React · Vite · Tailwind · TS
+
++ ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
++ user@archive:~$ git clone --mode
++ ( ) [ https ]   git clone https://github.com/TadejaMK/<your-repo>.git
++ ( ) [ ssh   ]   git clone git@github.com:TadejaMK/<your-repo>.git
+
++ user@archive:~$ cd <your-repo> && npx serve .
++ [ OK ] serving on http://localhost:3000
+
++ user@archive:~$ tree
++ .
++ ├── index.html
++ └── assets/
++     └── images/
+
++ user@archive:~$ deploy --host netlify
++ [ OK ] connect repo
++ [ OK ] build command: none
++ [ OK ] publish directory: /
++ [ OK ] site is live
+
++ ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
++ user@archive:~$ visit_archive
++ [ y / n ]
+```
 
 <p align="center">
   <a href="https://krchive.netlify.app/"><kbd>&nbsp;&nbsp;Submit&nbsp;&nbsp;</kbd></a>
@@ -37,9 +85,25 @@
 + © 2025 · all records reserved.
 ```
 
-<p align="center">
-  <img src="assets/github.gif" alt="ssh into github and fetch stats" width="840" />
-</p>
+```diff
++ ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+
++ user@archive:~$ ssh visitor@github.com
++ [ OK ] connection established
+
++ user@archive:~$ gh stats --user TadejaMK
++ [ OK ] fetching live data from github...
+```
+
+```diff
++ [ OK ] stats loaded
++ [ OK ] 4 modules online :: stats · languages · streak · graph
+
++ user@archive:~$ logout
++ [ OK ] connection closed.
++ ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+```
+
 
 <div align="center">
 
