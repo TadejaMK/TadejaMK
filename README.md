@@ -149,8 +149,4 @@
 
 <img width="100%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=TadejaMK&theme=dark&hide_border=true&background=0a0f0a&ring=39ff6a&fire=39ff6a&currStreakLabel=39ff6a" />
 
-<br /><br />
-
-<img width="100%" alt="Contribution graph" src="https://ghchart.rshah.org/39ff6a/TadejaMK" />
-
 </div>
