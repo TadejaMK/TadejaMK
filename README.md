@@ -49,6 +49,31 @@
 + DEVELOPING    ████░░░░░░░░  Node.js · React · Vite · Tailwind · TS
 
 + ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+```
+
+```diff
++ user@archive:~$ ls projects/
++ [ OK ] 5 projects found
+
++ [ 01 ] rchiveken        main profile website         CSS
++ [ 02 ] mytasuku         local-first task manager     JavaScript
++ [ 03 ] klikks           typing test + keyboard sounds  JavaScript
++ [ 04 ] ticketofomoide   memory ticket maker          CSS
++ [ 05 ] stampquest       daily photo stamps           HTML
+
++ user@archive:~$ open --details projects/*
+```
+
+| # | Project | About | Built with | Links |
+|---|---------|-------|------------|-------|
+| 01 | **rchiveken** | My main profile website, the archive itself. | CSS | [live](https://krchive.netlify.app/) · [repo](https://github.com/TadejaMK/rchiveken) |
+| 02 | **mytasuku** | A simple, local-first task manager with a focus timer, history, achievements, and four color palettes. | JavaScript | [live](https://mytasuku.netlify.app/) · [repo](https://github.com/TadejaMK/mytasuku) |
+| 03 | **klikks** | A minimal typing test with satisfying keyboard sounds, multiple test modes, and saved history. | JavaScript | [live](https://klikks.netlify.app/) · [repo](https://github.com/TadejaMK/klikks) |
+| 04 | **ticketofomoide** | Turn a photo and a few details into a keepsake memory ticket, saved to your browser and downloadable as PNG. | CSS | [live](https://ticketofomoide.netlify.app/) · [repo](https://github.com/TadejaMK/ticketofomoide) |
+| 05 | **stampquest** | Take one photo every day and turn it into your own digital stamp. | HTML | [live](https://stampquest.netlify.app/) · [repo](https://github.com/TadejaMK/stampquest) |
+
+```diff
++ ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 
 + user@archive:~$ git clone --mode
 + ( ) [ https ]   git clone https://github.com/TadejaMK/<your-repo>.git
