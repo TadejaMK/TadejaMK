@@ -110,10 +110,20 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img width="100%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TadejaMK&show_icons=true&theme=dark&hide_border=true&bg_color=0a0f0a&title_color=39ff6a&icon_color=39ff6a&text_color=c9d1d9&card_width=495" />
+      <img width="100%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TadejaMK&show_icons=true&theme=dark&hide_border=true&bg_color=0a0f0a&title_color=39ff6a&icon_color=39ff6a&text_color=c9d1d9&cache_seconds=86400" />
     </td>
     <td width="50%" align="center">
-      <img width="100%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=TadejaMK&theme=dark&hide_border=true&background=0a0f0a&ring=39ff6a&fire=39ff6a&currStreakLabel=39ff6a&width=495" />
+      <img width="100%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TadejaMK&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0a0f0a&title_color=39ff6a&text_color=c9d1d9&cache_seconds=86400" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=TadejaMK&theme=dark&hide_border=true&background=0a0f0a&ring=39ff6a&fire=39ff6a&currStreakLabel=39ff6a" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=TadejaMK&bg_color=0a0f0a&color=39ff6a&line=39ff6a&point=ffffff&area=true&hide_border=true" />
     </td>
   </tr>
 </table>
